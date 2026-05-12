@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/*============================
+RESET 
+==============================
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*============================
+VARIAVEIS GLOBAIS               
+===============================
+*/
+:root {
+    /* Cores do Style Guide (Paleta Base) */
+    --color-bg: hsl(212, 45%, 89%);      /* Slate 300 */
+    --color-card: hsl(0, 0%, 100%);     /* White */
+    --color-text-main: hsl(218, 44%, 22%); /* Slate 900 */
+    --color-text-sub: hsl(216, 15%, 48%);  /* Slate 500 */
+    /* Tipografia Otimizada */
+    --ff-primary: 'Outfit', sans-serif;
+    --fs-body: 0.9375rem; /* Equivalente aos 15px */
+    --fw-regular: 400;
+    --fw-bold: 700;
+    
+    --lh-base: 1.4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Este css estava na oagina html de entrada advinda do frontendmentor.io
+
+  .attribution { font-size: 0.6875rem; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+*/
+
+
+
+/* CSS que ja estava no html de entrada advinda do frontendmentor.io FOOTER */
+ .attribution {
+      font-size: 0.6875rem;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
