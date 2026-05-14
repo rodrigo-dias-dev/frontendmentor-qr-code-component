@@ -1,16 +1,18 @@
-# Avoid accidental upload of the Sketch and Figma design files
-#####################################################
-## Please do not remove lines 5 and 6 - thanks! 🙂 ##
-#####################################################
+# Design files (Ignora arquivos de programas de design)
 *.sketch
 *.fig
-
-# Avoid accidental XD upload if you convert the design file
-###############################################
-## Please do not remove line 12 - thanks! 🙂 ##
-###############################################
 *.xd
+assets/design/
 
-# Avoid your project being littered with annoying .DS_Store files!
+# Frontend Mentor guides (Mantém no PC, mas não sobe para o GitHub)
+style-guide.md
+README-template.md
+AGENTS.md
+CLAUDE.md
+
+# OS generated files (Arquivos invisíveis do sistema operacional)
 .DS_Store
+Thumbs.db
+
+# Project specific
 .prettierignore
